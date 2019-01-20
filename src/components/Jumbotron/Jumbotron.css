@@ -1,0 +1,25 @@
+.header {
+
+	position: relative;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.5);
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+
+	text-align: center;
+	font-size: 11vh;
+	font-weight: bold; 
+	color: white;
+	padding-top: 13vh;
+}
+
+h2 {
+
+	text-align: center;
+	font-size: 3vh;
+	padding-bottom: 5vh;
+	color: white;
+	padding-top: 2vh;
+}

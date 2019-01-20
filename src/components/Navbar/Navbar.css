@@ -1,0 +1,21 @@
+.navbar li {
+
+  display: inline-block;
+  text-align: center;
+}
+
+.itemCenter {
+
+  width: 100%;
+  color: white;
+  font-size: 5vh;
+  font-weight: bold;
+}
+
+.navBackground {
+
+  background: rgba(0, 83, 28, 0.95);
+  padding-top: .7vw;
+  padding-bottom: .7vw;
+  border-color: rgba(0, 66, 22, 0.95);
+}

@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "hoatzin.jpg"
+    },
+    {
+      "id": 2,
+      "image": "irrawaddy.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "jerboa.jpg"
+    },
+    {
+      "id": 4,
+      "image": "kakapo.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "mantisshrimp.jpg"
+    },
+    {
+      "id": 6,
+      "image": "molelizard.jpg"
+    },
+    {
+      "id": 7,
+      "image": "okapi.JPG"
+    },
+    {
+      "id": 8,
+      "image": "pangolin.jpg"
+    },
+    {
+      "id": 9,
+      "image": "quokka.jpg"
+    },
+    {
+      "id": 10,
+      "image": "saiga.jpg"
+    },
+    {
+      "id": 11,
+      "image": "scorpionfly.jpg"
+    },
+    {
+      "id": 12,
+      "image": "seapig.jpg"
+    }
+  ]
+  
